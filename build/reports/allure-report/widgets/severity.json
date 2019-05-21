@@ -1,0 +1,11 @@
+[ {
+  "uid" : "802e77cb44aa03f8",
+  "name" : "wikipediaSearchTest()",
+  "time" : {
+    "start" : 1558448306813,
+    "stop" : 1558448323912,
+    "duration" : 17099
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

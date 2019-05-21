@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Bobcat.test.WikipediaTest",
+    "children" : [ {
+      "name" : "wikipediaSearchTest()",
+      "uid" : "802e77cb44aa03f8",
+      "parentUid" : "7ee1ab5e9438655aeb2dd01238f16da1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1558448306813,
+        "stop" : 1558448323912,
+        "duration" : 17099
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Bobcat.test.WikipediaTest"
+  } ]
+}
